@@ -8,7 +8,6 @@ import time
 import threading
 import os 
 import random
-import user_agent
 
 init(autoreset=True)
 red = Fore.RED
